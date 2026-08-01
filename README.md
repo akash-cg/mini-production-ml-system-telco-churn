@@ -1,9 +1,6 @@
-# mini-production-ml-system-telco-churn
-A production-inspired Machine Learning project demonstrating an end-to-end ML lifecycle for Customer Churn Prediction, including data ingestion, feature engineering, model training, model serving with FastAPI, monitoring, drift detection, retraining strategy, and deployment-ready project structure.
-
 # 🚀 Mini Production ML System for Customer Churn Prediction
 
-> End-to-End Machine Learning Engineering Project | Production ML | FastAPI | Monitoring | Model Serving | MLOps Concepts
+> A production-inspired Machine Learning project demonstrating an end-to-end ML lifecycle for Customer Churn Prediction, including data ingestion, feature engineering, model training, model serving with FastAPI, monitoring, drift detection, retraining strategy, and deployment-ready project structure.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)

@@ -1,0 +1,10 @@
+{
+  "rows": 700,
+  "max_null_rate": 0.0,
+  "drift_scores": {
+    "MonthlyCharges": 0.009391585621644088,
+    "tenure": 0.011214991565079109
+  },
+  "status": "PASS",
+  "warnings": []
+}

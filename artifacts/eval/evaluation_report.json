@@ -1,0 +1,41 @@
+{
+  "baseline": {
+    "accuracy": 0.7345635202271115,
+    "roc_auc": 0.5,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "confusion_matrix": [
+      [
+        1035,
+        0
+      ],
+      [
+        374,
+        0
+      ]
+    ]
+  },
+  "candidate": {
+    "accuracy": 0.7437899219304471,
+    "roc_auc": 0.845609548167093,
+    "precision": 0.5111876075731497,
+    "recall": 0.7941176470588235,
+    "f1": 0.6219895287958115,
+    "confusion_matrix": [
+      [
+        751,
+        284
+      ],
+      [
+        77,
+        297
+      ]
+    ]
+  },
+  "promotion": {
+    "rule": "candidate_auc >= 0.80 and >= baseline_auc + 0.01",
+    "promote": true,
+    "model_version": "telco-churn-logreg-v1.0.0"
+  }
+}

@@ -1,0 +1,11 @@
+project: telco_churn
+random_seed: 42
+test_size: 0.20
+model_version: telco-churn-logreg-v1.0.0
+promotion:
+  min_auc: 0.80
+  min_auc_gain_over_baseline: 0.01
+monitoring:
+  max_null_rate: 0.02
+  drift_z_threshold: 0.25
+  retrain_after_new_days: 30

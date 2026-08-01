@@ -2,11 +2,6 @@
 
 > A production-inspired Machine Learning project demonstrating an end-to-end ML lifecycle for Customer Churn Prediction, including data ingestion, feature engineering, model training, model serving with FastAPI, monitoring, drift detection, retraining strategy, and deployment-ready project structure.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
-![FastAPI](https://img.shields.io/badge/FastAPI-API-success)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
